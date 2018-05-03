@@ -4,5 +4,6 @@
     echo 'hello world';
     echo 'hi';
     echo 'Hi';
+    echo '你好啊';
 ?>
 <hr />
